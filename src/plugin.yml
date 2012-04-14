@@ -1,0 +1,5 @@
+name: LavaFurnace
+version: 1.0
+main: nl.armeagle.minecraft.LavaFurnace.LavaFurnace
+author: ArmEagle
+description: Makes the iron bucket not be consumed when using lava (bucket) in a furnace
