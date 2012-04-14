@@ -5,7 +5,7 @@ This Minecraft, Bukkit plugin returns the iron bucket used when using a lava (bu
 
 Source
 ------
-@todo Source can be found at https://github.com/ArmEagle/LavaFurnace
+Source can be found at https://github.com/ArmEagle/LavaFurnace
 
 License
 -------
